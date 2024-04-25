@@ -1,1 +1,1 @@
-# VSD-openlane-
+# VSD-SOC Design and Planning
